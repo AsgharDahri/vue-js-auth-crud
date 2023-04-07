@@ -1,0 +1,60 @@
+{
+  "user": [
+    {
+      "name": "asghar",
+      "email": "asghar@gmail.com",
+      "password": "123123123",
+      "id": 1
+    },
+    {
+      "name": "Ghulam Asghar Dahri",
+      "email": "asghar1@gmail.com",
+      "password": "123123",
+      "id": 4
+    },
+    {
+      "name": "abbas",
+      "email": "abbass@gmail.com",
+      "password": "123123",
+      "id": 5
+    },
+    {
+      "name": "abbas",
+      "email": "abbass@gmail.com",
+      "password": "123123",
+      "id": 6
+    },
+    {
+      "name": "asghar",
+      "email": "abbass@gmail.com",
+      "password": "123123",
+      "id": 7
+    },
+    {
+      "name": "peter",
+      "email": "peter@gmail.com",
+      "password": "123123",
+      "id": 8
+    },
+    {
+      "name": "peter",
+      "email": "peter@gmail.com",
+      "password": "123123",
+      "id": 9
+    },
+    {
+      "name": "Ghulam Asghar Dahri",
+      "email": "as@gmail.com",
+      "password": "123123",
+      "id": 10
+    }
+  ],
+  "restros": [
+    {
+      "id": 3,
+      "name": "Pizza Hut",
+      "address": "Karachi",
+      "contact": "+923000122224"
+    }
+  ]
+}
